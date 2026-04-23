@@ -1,0 +1,10 @@
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\bin\Debug\DataEntry.exe.config
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\bin\Debug\DataEntry.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\bin\Debug\DataEntry.pdb
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.Form1.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.Properties.Resources.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.csproj.GenerateResource.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.csproj.CoreCompileInputs.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.pdb
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Debug\DataEntry.csprojAssemblyReference.cache

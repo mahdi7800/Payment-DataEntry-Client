@@ -1,0 +1,9 @@
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\bin\Release\DataEntry.exe.config
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\bin\Release\DataEntry.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\bin\Release\DataEntry.pdb
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Release\DataEntry.Form1.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Release\DataEntry.Properties.Resources.resources
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Release\DataEntry.csproj.GenerateResource.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Release\DataEntry.csproj.CoreCompileInputs.cache
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Release\DataEntry.exe
+Z:\Users\AFERI\source\repos\WindowsFormsApp7\DataEntry\obj\Release\DataEntry.pdb
