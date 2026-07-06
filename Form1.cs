@@ -78,13 +78,20 @@ namespace DataEntry
 
         }
 
-        private bool ValidateInput(string customerId , string amount)
+      private bool ValidateInput(string customerId , string amount)
         {
            if(customerId.Length == 0)
             {
               MessageBox.Show("لطفا ادی مشتری را وارد کنید");
                 return false;
             }
+
+           if(customerId.Length != 5)
+            {
+                MessageBox.Show("ادی مشتری باید 5 حرف باشد");
+                return false;
+            }
+
 
             if (amount.Length == 0)
             {
@@ -93,6 +100,18 @@ namespace DataEntry
                 return false;
 
             }
+
+            try
+            {
+                decimal.Parse(amount);
+            }
+                
+             catch (Exception ex)
+            {
+                MessageBox.Show("لطفا عدد وارد کنید");
+                return false;
+            }
+               
             return true;
                 
         }
